@@ -196,4 +196,4 @@ generate_real_examples(k=5, n_examples=3)
 
 ## 📜 License
 
-MIT License
+This project is open source and available under the [MIT License](LICENSE).
