@@ -78,8 +78,8 @@ data/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/book-recommender.git
-cd book-recommender
+git clone https://github.com/pradeepchan/BookRS.git
+cd BookRS
 ```
 
 Create virtual environment:
